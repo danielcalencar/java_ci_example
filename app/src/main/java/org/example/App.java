@@ -9,6 +9,7 @@ public class App {
     }
 
 	//adding documentation
+	//making code more readable!
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
     }
